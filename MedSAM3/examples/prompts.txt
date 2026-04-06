@@ -1,0 +1,5 @@
+# One prompt per line
+liver
+spleen
+kidney
+brain
