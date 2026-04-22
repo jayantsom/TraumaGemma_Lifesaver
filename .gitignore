@@ -1,1 +1,5 @@
-/data
+.vscode/
+__pycache__/
+
+/data/abdomen_rsna/
+/data/brain_segmentation/
