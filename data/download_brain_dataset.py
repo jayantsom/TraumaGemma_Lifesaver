@@ -1,4 +1,3 @@
-# Author: Jayant Som
 # Downloading and extracting the brain hemorrhage dataset directly
 
 # Importing the required libraries

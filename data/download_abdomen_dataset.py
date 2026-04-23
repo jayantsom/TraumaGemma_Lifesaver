@@ -1,4 +1,3 @@
-# Author: Jayant Som
 # Downloading preprocessed RSNA abdominal trauma segmentation dataset
 
 # Importing the required libraries
